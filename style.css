@@ -1,0 +1,30 @@
+.header1 {
+  color: blue;
+  background-color: brown;
+  font-family: 'Courier New', Courier, monospace;
+  text-align:center;
+  width: 10%;
+  margin-left: 850px;
+  
+}
+
+.recipes {
+  font-size: larger;
+  font-family: 'Courier New', Courier, monospace;
+  background-color:lightblue;
+  width:6.7cm;
+  margin-left:810px ;
+  
+}
+
+#background {
+  background-image: url(https://images.wallpaperscraft.com/image/single/interior_design_style_75557_1920x1080.jpg);
+  background-repeat: no-repeat;
+  
+}
+
+.package {
+  margin-top: 12%;
+}
+
+
